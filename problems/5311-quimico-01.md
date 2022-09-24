@@ -8,7 +8,7 @@ $$
 
 Si se cuenta con una alimentación equimolar de los reactantes e igual a 5 moles a 200 $^\circ$C. ¿Cuál será las fracciones molares si el sistema opera adiabáticamente a 10 bar y el catalizador permite que el sistema alcance el equilibrio sin que exista alguna otra reacción no deseada?
 
-Componente | $\Delta H_f^\circ (298)$ |    $\Delta G_f^\circ(298)$  | A  |   B x 10$^2$
+Componente | $\Delta H_f^\circ (298)$ |    $\Delta G_f^\circ(298)$  | A  |   B x $10^2$
 -----------|-------------------------| ----------------------------|----|-------------
 CO (g)     |-110530 |  -137160 | 30.87 |  -1.285
 H2 (g)     |  0     |    0     |27.14  |  0.927
