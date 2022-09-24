@@ -6,7 +6,7 @@ $$
 \text{CO(g)} + 2\text{H}_2\text{(g}) = \text{CH}_3\text{OH(g)}
 $$
 
-Si se cuenta con una alimentación equimolar de los reactantes e igual a 5 moles a 200 <sup>&#9675;</sup>C. ¿Cuál será las fracciones molares si el sistema opera adiabáticamente a 10 bar y el catalizador permite que el sistema alcance el equilibrio sin que exista alguna otra reacción no deseada?
+Si se cuenta con una alimentación equimolar de los reactantes e igual a 5 moles a 200 <sup>&#9702;</sup>C. ¿Cuál será las fracciones molares si el sistema opera adiabáticamente a 10 bar y el catalizador permite que el sistema alcance el equilibrio sin que exista alguna otra reacción no deseada?
 
 Componente | $\Delta H_f^\circ (298)$ |    $\Delta G_f^\circ(298)$  | A  |   B x $10^2$
 -----------|-------------------------| ----------------------------|----|-------------
