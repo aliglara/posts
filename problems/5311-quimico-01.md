@@ -14,7 +14,7 @@ CO (g)     |-110530 |  -137160 | 30.87 |  -1.285
 H2 (g)     |  0     |    0     |27.14  |  0.927
 CH3OH (g)  | -200940 |  -162240 | 21.15 | 7.092
 
-$$ Cp_{i}(T) = A + B\,T $$
+$$ Cp_{i}(T) = A + B \cdot T $$
 
 Las unidades de $\Delta H_f$ y $\Delta G_f$ son J/mol, mientras que T es en Kelvin y $ Cp_{i}$ es J/mol/K
 
